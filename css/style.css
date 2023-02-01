@@ -27,3 +27,20 @@ h2 {
     font-family: monospace;
     border: 10px solid pink;
 }
+
+section>article {
+    background-color: darkviolet;
+    color: white;
+}
+
+article>p {
+    color: white;
+}
+
+a,h4,#page_header {
+    letter-spacing: 20px;
+}
+
+.special_bold,section {
+    border: 5px dotted green;
+}
