@@ -1,0 +1,29 @@
+p {
+    font-family: monospace;
+    font-size: 24px;
+    color: green;
+}
+
+a {
+    font-size: 5px;
+}
+
+h2 {
+    background-color: cyan;
+}
+
+.special_bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#page_header {
+    color: deeppink;
+    font-family: sans-serif;
+}
+
+#last_link {
+    font-size: 30px;
+    font-family: monospace;
+    border: 10px solid pink;
+}
